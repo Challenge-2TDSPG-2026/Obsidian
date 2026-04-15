@@ -1,6 +1,7 @@
 # 📂 Materiais & Anotações — Mastering Relational and Non-Relational Database
 
 > Professor: **Virgilio Valerio dos Santos**
+> Responsável: Arthur Brito da Silva
 > Vinculado ao: [[db_progresso]]
 
 ---

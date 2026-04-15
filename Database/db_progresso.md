@@ -1,8 +1,8 @@
 # 📈 Progresso — Mastering Relational and Non-Relational Database
 
 > Professor: **Virgilio Valerio dos Santos**
-> Temas: `SQL, PostgreSQL, MySQL, MongoDB, Redis, modelagem`
-> Vinculado ao: [[00_painel_geral]]
+> Responsável: Arthur Brito da Silva
+> Vinculado ao: [[db_progresso]]
 
 ---
 
