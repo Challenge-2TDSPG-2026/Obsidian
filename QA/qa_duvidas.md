@@ -1,42 +1,50 @@
-# ❓ Dúvidas & Respostas — Compliance, Quality Assurance and Tests
-
-> Professor: **Gustavo Molina Figueiredo**
-> Vinculado ao: [[qa_progresso]]
+# ❓ Dúvidas & Respostas — Compliance, QA and Tests
+Professor: Gustavo Molina Figueiredo | Vinculado ao: `qa_progresso`
 
 ---
 
 ## Como usar
-
-1. Registre a dúvida assim que surgir
-2. Marque a origem: `Aula` · `Exercício` · `Estudo próprio`
-3. Tente responder com pesquisa e anote a fonte
-4. Pergunte ao professor se necessário — marque como ✅ quando resolvida
+- Registre a dúvida assim que surgir
+- Marque a origem: **Aula · Exercício · Sprint · Estudo próprio**
+- Tente responder com pesquisa e anote a fonte
+- Pergunte ao professor se necessário — marque como ✅ quando resolvida
 
 ---
 
 ## 🟡 Dúvidas em aberto
 
-### ❓ `Título da dúvida`
-- **Origem:** Aula 0X / Exercício 0X / Estudo próprio
+### ❓ Título da dúvida
+- **Origem:** Aula 0X / Exercício 0X / Sprint 0X / Estudo próprio
 - **Contexto:** ``
 - **O que já tentei:** ``
-- **Próximo passo:** Pesquisar / Perguntar ao professor / Testar
+- **Próximo passo:** Pesquisar / Perguntar ao professor / Testar / Abrir issue
 
 ---
 
 ## ✅ Dúvidas Resolvidas
 
-### ✅ `Título da dúvida`
+### ✅ Título da dúvida
 - **Resposta:** ``
 - **Fonte:** ``
-- **Aula relacionada:** ``
+- **Aula / Sprint relacionada:** ``
 
 ---
 
 ## 💬 Perguntas preparadas para o professor
+- ``
+- ``
 
-- [ ] ``
-- [ ] ``
+---
+
+## 🐛 Dúvidas sobre Bugs / Falhas encontradas
+
+### ❓ Título do bug/comportamento
+- **Sprint / Componente:** ``
+- **Tipo de teste onde apareceu:** Unitário / Integração / E2E / Manual
+- **Comportamento esperado:** ``
+- **Comportamento atual:** ``
+- **Hipótese:** ``
+- **Status:** Em investigação / Resolvido / Aceito como comportamento
 
 ---
 
@@ -47,5 +55,4 @@
 | `` | `` | `` |
 
 ---
-
-*Última atualização: `DATA`*
+*Última atualização: DATA*

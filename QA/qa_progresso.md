@@ -1,14 +1,14 @@
-# 📈 Progresso — Compliance, Quality Assurance and Tests
+# 📈 Progresso — Compliance, QA and Tests
+Professor: Gustavo Molina Figueiredo | Vinculado ao: `00_painel_geral`
 
-> Professor: **Gustavo Molina Figueiredo**
-> Temas: `Testes unitarios, integracao, E2E, LGPD, compliance, CI/CD`
-> Vinculado ao: [[00_painel_geral]]
+**Temas:** Testes unitários · Integração · E2E · LGPD · Compliance · CI/CD · Sprints
 
 ---
 
 ## 🎯 Objetivo da Disciplina
+> O que você quer dominar ao final do semestre?
 
-> O que você quer dominar ao final do semestre? Escreva em suas palavras.
+``
 
 ---
 
@@ -16,18 +16,40 @@
 
 | # | Data | Conteúdo | Entendimento | Revisado? |
 |---|---|---|---|---|
-| 01 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 02 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 03 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 04 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 05 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 06 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 07 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 08 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 09 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
-| 10 | `DD/MM` | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 01 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 02 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 03 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 04 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 05 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 06 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 07 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 08 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 09 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
+| 10 | DD/MM | `` | 😕 🤔 😊 🔥 | ⬜ |
 
-> Legenda: 😕 Não entendi · 🤔 Parcialmente · 😊 Entendi bem · 🔥 Domino
+> 😕 Não entendi · 🤔 Parcialmente · 😊 Entendi bem · 🔥 Domino
+
+---
+
+## 🏃 Progresso das Sprints
+
+| Sprint | Período | Status | Cobertura de testes | Bugs abertos | Bugs resolvidos |
+|---|---|---|---|---|---|
+| Sprint 01 | DD/MM → DD/MM | ⬜ / 🟡 / ✅ | `__%` | 0 | 0 |
+| Sprint 02 | DD/MM → DD/MM | ⬜ / 🟡 / ✅ | `__%` | 0 | 0 |
+| Sprint 03 | DD/MM → DD/MM | ⬜ / 🟡 / ✅ | `__%` | 0 | 0 |
+
+> ⬜ Não iniciada · 🟡 Em andamento · ✅ Concluída
+
+---
+
+## 📊 Cobertura de Testes (Projeto)
+
+| Camada | Meta | Atual | Status |
+|---|---|---|---|
+| Unitários | ≥ 80% | `__%` | ⬜ |
+| Integração | ≥ 60% | `__%` | ⬜ |
+| E2E | Fluxos críticos | `` | ⬜ |
 
 ---
 
@@ -35,22 +57,20 @@
 
 | Avaliação | Tipo | Data | Peso | Nota | Status |
 |---|---|---|---|---|---|
-| AV1 | `Prova / Trabalho / Projeto` | `DD/MM` | `` | — | ⬜ |
-| AV2 | `Prova / Trabalho / Projeto` | `DD/MM` | `` | — | ⬜ |
-| AV3 | `Prova / Trabalho / Projeto` | `DD/MM` | `` | — | ⬜ |
-| **Média final** | — | — | — | **—** | — |
+| AV1 | Prova / Trabalho / Projeto | DD/MM | `` | — | ⬜ |
+| AV2 | Prova / Trabalho / Projeto | DD/MM | `` | — | ⬜ |
+| AV3 | Prova / Trabalho / Projeto | DD/MM | `` | — | ⬜ |
+| **Média final** | — | — | — | — | — |
 
 ---
 
 ## 🏆 Tópicos Dominados
-
-- [ ] ``
-- [ ] ``
+- ``
+- ``
 
 ## ⚠️ Tópicos para Reforçar
-
-- [ ] `` → ver [[qa_duvidas]]
-- [ ] ``
+- `` → ver `qa_duvidas`
+- ``
 
 ---
 
@@ -58,11 +78,10 @@
 
 | | |
 |---|---|
-| Materiais & anotações | [[qa_materiais]] |
-| Exercícios & projetos | [[qa_exercicios]] |
-| Dúvidas & respostas | [[qa_duvidas]] |
-| Painel geral | [[00_painel_geral]] |
+| Materiais & anotações | `qa_materiais` |
+| Exercícios & sprints | `qa_exercicios` |
+| Dúvidas & respostas | `qa_duvidas` |
+| Painel geral | `00_painel_geral` |
 
 ---
-
-*Última atualização: `DATA`*
+*Última atualização: DATA*
