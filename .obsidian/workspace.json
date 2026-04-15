@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT/IoT_progresso.md",
+                "file": "QA/qa_progresso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IoT_progresso"
+              "title": "qa_progresso"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "4012d5a975c2107b",
   "lastOpenFiles": [
+    "QA/qa_materiais.md",
+    "QA/qa_exercicios.md",
+    "QA/qa_duvidas.md",
+    "00 - 🚀 Challenge FIAP — `Nome do Projeto`.md",
+    "IoT/IoT_progresso.md",
     "IoT/IoT_materiais.md",
     "IoT/IoT_exercicios.md",
     "IoT/IoT_duvidas.md",
-    "IoT/IoT_progresso.md",
     "Database/db_progresso.md",
     "Database/db_materiais.md",
     "Database/db_exercicios.md",
