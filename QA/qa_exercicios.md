@@ -1,15 +1,23 @@
-# 🧪 Exercícios & Sprints — Compliance, QA and Tests
-Professor: Gustavo Molina Figueiredo | Vinculado ao: `qa_progresso`
+---
+titulo: Exercícios & Sprints
+disciplina: Compliance, QA and Tests
+professor: Gustavo Molina Figueiredo
+tags: [qa, sprints, exercicios, fiap]
+vinculado: "[[qa_progresso]]"
+ultima_atualizacao: 2025-01-01
+---
+
+# 🧪 Exercícios & Sprints — QA & Compliance
 
 ---
 
 ## 📋 Lista de Entregas
 
-| # | Descrição | Tipo | Prazo | Status | Nota |
-|---|---|---|---|---|---|
-| 01 | `` | Exercício / Sprint / Lab | DD/MM | ⬜ | — |
-| 02 | `` | Exercício / Sprint / Lab | DD/MM | ⬜ | — |
-| 03 | `` | Exercício / Sprint / Lab | DD/MM | ⬜ | — |
+| #  | Descrição | Tipo                       | Prazo | Status | Nota |
+| -- | --------- | -------------------------- | ----- | ------ | ---- |
+| 01 |           | Exercício / Sprint / Lab   | DD/MM | ⬜      | —    |
+| 02 |           | Exercício / Sprint / Lab   | DD/MM | ⬜      | —    |
+| 03 |           | Exercício / Sprint / Lab   | DD/MM | ⬜      | —    |
 
 > ⬜ Não iniciado · 🟡 Em andamento · ✅ Entregue · ❌ Atrasado
 
@@ -17,115 +25,187 @@ Professor: Gustavo Molina Figueiredo | Vinculado ao: `qa_progresso`
 
 ## 🏃 Sprint 01 — Título
 
-**Objetivo da sprint:** ``
-**Período:** DD/MM → DD/MM
-**Repositório / Branch:** ``
+> [!abstract] Visão geral
+> **Objetivo:** 
+> **Período:** DD/MM → DD/MM
+> **Repositório / Branch:** 
+> **Cobertura meta:** ≥ __%
 
-### Backlog da Sprint
+### Backlog
 
-| # | User Story / Tarefa | Tipo | Responsável | Status |
-|---|---|---|---|---|
-| 01 | `` | Feature / Bug / Teste / Doc | — | ⬜ |
-| 02 | `` | Feature / Bug / Teste / Doc | — | ⬜ |
-| 03 | `` | Feature / Bug / Teste / Doc | — | ⬜ |
+| #  | User Story / Tarefa | Tipo                        | Status |
+| -- | ------------------- | --------------------------- | ------ |
+| 01 |                     | Feature / Bug / Teste / Doc | ⬜      |
+| 02 |                     | Feature / Bug / Teste / Doc | ⬜      |
+| 03 |                     | Feature / Bug / Teste / Doc | ⬜      |
 
 ### Critérios de Aceite
-- [ ] ``
-- [ ] ``
-- [ ] Cobertura de testes ≥ `__%`
 
-### Definition of Done (DoD)
+- [ ] 
+- [ ] 
+- [ ] Cobertura de testes ≥ __%
+
+### Definition of Done
+
 - [ ] Código revisado (PR aprovado)
 - [ ] Testes unitários escritos e passando
 - [ ] Testes de integração passando
-- [ ] Sem vulnerabilidades críticas (LGPD / compliance verificado)
+- [ ] Sem falhas de compliance / LGPD verificado
 - [ ] Documentação atualizada
-- [ ] Deploy em ambiente de homologação validado
+- [ ] Deploy em homologação validado
 
-### Testes da Sprint
+### Cenários de Teste
 
-| Cenário | Tipo | Resultado | Evidência |
-|---|---|---|---|
-| `` | Unitário / Integração / E2E | ✅ Pass / ❌ Fail | link / — |
+| Cenário | Tipo                       | Resultado      | Evidência  |
+| ------- | -------------------------- | -------------- | ---------- |
+|         | Unitário / Integração / E2E | ✅ Pass / ❌ Fail |            |
+|         | Unitário / Integração / E2E | ✅ Pass / ❌ Fail |            |
 
 ### Bugs encontrados
 
-| ID | Descrição | Severidade | Status |
-|---|---|---|---|
-| BUG-01 | `` | 🔴 Crítico / 🟠 Alto / 🟡 Médio / 🟢 Baixo | Aberto / Resolvido |
+| ID     | Descrição | Severidade                                        | Status            |
+| ------ | --------- | ------------------------------------------------- | ----------------- |
+| BUG-01 |           | 🔴 Crítico / 🟠 Alto / 🟡 Médio / 🟢 Baixo       | Aberto / Resolvido |
+| BUG-02 |           | 🔴 Crítico / 🟠 Alto / 🟡 Médio / 🟢 Baixo       | Aberto / Resolvido |
+
+### Métricas da Sprint
+
+| Métrica              | Valor |
+| -------------------- | ----- |
+| Tarefas planejadas   |       |
+| Tarefas concluídas   |       |
+| Bugs abertos         |       |
+| Bugs resolvidos      |       |
+| Cobertura alcançada  | __%   |
 
 ### Retrospectiva
-- **O que foi bem:** ``
-- **O que pode melhorar:** ``
-- **Ação para próxima sprint:** ``
+
+> [!success] O que foi bem
+> 
+
+> [!warning] O que pode melhorar
+> 
+
+> [!tip] Ação para próxima sprint
+> 
 
 ---
 
 ## 🏃 Sprint 02 — Título
 
-**Objetivo da sprint:** ``
-**Período:** DD/MM → DD/MM
+> [!abstract] Visão geral
+> **Objetivo:** 
+> **Período:** DD/MM → DD/MM
+> **Repositório / Branch:** 
+> **Cobertura meta:** ≥ __%
 
-### Backlog da Sprint
+### Backlog
 
-| # | Tarefa | Tipo | Status |
-|---|---|---|---|
-| 01 | `` | Feature / Bug / Teste | ⬜ |
+| #  | User Story / Tarefa | Tipo                        | Status |
+| -- | ------------------- | --------------------------- | ------ |
+| 01 |                     | Feature / Bug / Teste / Doc | ⬜      |
 
 ### Critérios de Aceite
-- [ ] ``
 
-### Testes da Sprint
+- [ ] 
+- [ ] Cobertura de testes ≥ __%
 
-| Cenário | Tipo | Resultado |
-|---|---|---|
-| `` | Unitário / Integração / E2E | ✅ / ❌ |
+### Definition of Done
+
+- [ ] Código revisado (PR aprovado)
+- [ ] Testes unitários escritos e passando
+- [ ] Testes de integração passando
+- [ ] Sem falhas de compliance / LGPD verificado
+- [ ] Documentação atualizada
+- [ ] Deploy em homologação validado
+
+### Cenários de Teste
+
+| Cenário | Tipo                        | Resultado       | Evidência |
+| ------- | --------------------------- | --------------- | --------- |
+|         | Unitário / Integração / E2E | ✅ Pass / ❌ Fail |           |
+
+### Bugs encontrados
+
+| ID     | Descrição | Severidade                                   | Status            |
+| ------ | --------- | -------------------------------------------- | ----------------- |
+| BUG-01 |           | 🔴 Crítico / 🟠 Alto / 🟡 Médio / 🟢 Baixo | Aberto / Resolvido |
+
+### Retrospectiva
+
+> [!success] O que foi bem
+> 
+
+> [!warning] O que pode melhorar
+> 
+
+> [!tip] Ação para próxima sprint
+> 
 
 ---
 
 ## 🔨 Exercício 01 — Título
 
-**Enunciado:**
+> [!note] Enunciado
+> 
 
 **Solução:**
 
+```java
+// código aqui
+```
+
 **Testes escritos:**
-```
-// descreva ou cole aqui
+
+```java
+// testes aqui
 ```
 
-**Feedback do professor:**
+> [!check] Feedback do professor
+> 
 
-**Aprendizados:**
+> [!abstract] Aprendizados
+> 
 
 ---
 
 ## 🔨 Exercício 02 — Título
 
-**Enunciado:**
+> [!note] Enunciado
+> 
 
 **Solução:**
 
+```java
+
+```
+
 **Testes escritos:**
+
+```java
+
+```
 
 ---
 
 ## 🏗️ Projeto da Disciplina
 
-**Nome:**
-**Descrição:**
-**Entrega:** DD/MM/AAAA
-**Repositório:** [GitHub]()
+> [!abstract] Visão geral
+> **Nome:**
+> **Descrição:**
+> **Entrega:** DD/MM/AAAA
+> **Repositório:** [GitHub]()
 
-### Checklist
+### Checklist do Projeto
+
 - [ ] Leitura do enunciado
 - [ ] Planejamento / modelagem
 - [ ] Implementação
-- [ ] Testes unitários
-- [ ] Testes de integração
-- [ ] Testes E2E
+- [ ] Testes unitários (meta: ≥ 80%)
+- [ ] Testes de integração (meta: ≥ 60%)
+- [ ] Testes E2E (fluxos críticos)
 - [ ] Verificação de compliance / LGPD
-- [ ] Pipeline CI/CD configurado
+- [ ] Pipeline CI/CD configurado e passando
 - [ ] Documentação (README)
 - [ ] Entrega / submissão
 
@@ -134,8 +214,15 @@ Professor: Gustavo Molina Figueiredo | Vinculado ao: `qa_progresso`
 ## 📊 Histórico de Notas
 
 | Entrega | Nota | Máximo | Observações |
-|---|---|---|---|
-| `` | — | — | `` |
+| ------- | ---- | ------ | ----------- |
+|         | —    | —      |             |
 
 ---
-*Última atualização: DATA*
+
+> [!example]- Dataview — Status das entregas
+> ```dataview
+> TABLE prazo, status, nota
+> FROM "FIAP/QA"
+> WHERE tipo = "entrega"
+> SORT prazo ASC
+> ```

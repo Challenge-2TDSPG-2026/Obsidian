@@ -11,10 +11,14 @@
             "id": "4012d5a975c2107b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "QA/qa_progresso.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "qa_progresso"
             }
           }
         ]
@@ -181,10 +185,16 @@
   },
   "active": "4012d5a975c2107b",
   "lastOpenFiles": [
-    "QA/qa_progresso.md",
     "QA/qa_materiais.md",
-    "QA/qa_exercicios.md",
     "QA/qa_duvidas.md",
+    "QA/qa_progresso.md",
+    "QA/qa_exercicios.md",
+    "QA/files (1)/qa_exercicios.md",
+    "QA/files (1)/qa_progresso.md",
+    "QA/files (1)/qa_materiais.md",
+    "QA/files (1)/qa_duvidas.md",
+    "QA/files (1)",
+    "QA/files (1).zip",
     "00 - 🚀 Challenge FIAP — `Nome do Projeto`.md",
     "IoT/IoT_progresso.md",
     "IoT/IoT_materiais.md",
