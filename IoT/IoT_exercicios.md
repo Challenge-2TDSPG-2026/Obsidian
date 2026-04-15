@@ -1,7 +1,8 @@
 # 🧪 Exercícios & Projetos — Disruptive Architectures IoT IoB and Generative IA
 
 > Professor: **Arnaldo Alves Viana Junior**
-> Vinculado ao: [[ia_progresso]]
+> Responsável: Arthur Brito da Silva
+> Vinculado ao: [[IoT_progresso]]
 
 ---
 

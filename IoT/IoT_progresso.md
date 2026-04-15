@@ -1,8 +1,8 @@
 # 📈 Progresso — Disruptive Architectures IoT IoB and Generative IA
 
 > Professor: **Arnaldo Alves Viana Junior**
-> Temas: `IoT, IoB, LLMs, Generative AI, APIs de IA, arquiteturas disruptivas`
-> Vinculado ao: [[00_painel_geral]]
+> Responsável: Arthur Brito da Silva
+> Vinculado ao: [[IoT_progresso]]
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## ⚠️ Tópicos para Reforçar
 
-- [ ] `` → ver [[ia_duvidas]]
+- [ ] `` → ver [[IoT_duvidas]]
 - [ ] ``
 
 ---
@@ -58,9 +58,9 @@
 
 | | |
 |---|---|
-| Materiais & anotações | [[ia_materiais]] |
-| Exercícios & projetos | [[ia_exercicios]] |
-| Dúvidas & respostas | [[ia_duvidas]] |
+| Materiais & anotações | [[IoT_materiais]] |
+| Exercícios & projetos | [[IoT_exercicios]] |
+| Dúvidas & respostas | [[IoT_duvidas]] |
 | Painel geral | [[00_painel_geral]] |
 
 ---
