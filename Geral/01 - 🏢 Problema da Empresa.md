@@ -29,13 +29,13 @@ A Clyvo Vet é uma empresa americana em processo de entrada no mercado brasileir
 
 ### Causa raiz (5 Porquês)
 
-| # | Por quê? | Resposta |
-|---|---|---|
-| 1 | Por que o problema existe? | Tutores não levam pets a consultas preventivas regularmente |
-| 2 | Por que isso acontece? | Não há um sistema que engaje e lembre o tutor proativamente |
-| 3 | Por que isso acontece? | Clínicas não têm ferramentas de CRM e comunicação integradas |
-| 4 | Por que isso acontece? | A operação clínica é manual e burocrática, sem tempo para relacionamento |
-| 5 | Causa raiz identificada | Ausência de um ecossistema digital que conecte clínica, hospital e tutor com automação e IA |
+| #   | Por quê?                   | Resposta                                                                                    |
+| --- | -------------------------- | ------------------------------------------------------------------------------------------- |
+| 1   | Por que o problema existe? | Tutores não levam pets a consultas preventivas regularmente                                 |
+| 2   | Por que isso acontece?     | Não há um sistema que engaje e lembre o tutor proativamente                                 |
+| 3   | Por que isso acontece?     | Clínicas não têm ferramentas de CRM e comunicação integradas                                |
+| 4   | Por que isso acontece?     | A operação clínica é manual e burocrática, sem tempo para relacionamento                    |
+| 5   | Causa raiz identificada    | Ausência de um ecossistema digital que conecte clínica, hospital e tutor com automação e IA |
 
 ### Stakeholders afetados
 
