@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/qa_progresso.md",
-                "mode": "preview",
+                "file": "01 - 🏢 Problema da Empresa.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qa_progresso"
+              "title": "01 - 🏢 Problema da Empresa"
             }
           }
         ]
@@ -185,9 +185,12 @@
   },
   "active": "4012d5a975c2107b",
   "lastOpenFiles": [
+    "01 - 🏢 Problema da Empresa.md",
+    "00 - 🚀 Challenge FIAP — `Nome do Projeto`.md",
+    "02 - 🔬 Pesquisa & Benchmark.md",
+    "QA/qa_progresso.md",
     "QA/qa_materiais.md",
     "QA/qa_duvidas.md",
-    "QA/qa_progresso.md",
     "QA/qa_exercicios.md",
     "QA/files (1)/qa_exercicios.md",
     "QA/files (1)/qa_progresso.md",
@@ -195,7 +198,6 @@
     "QA/files (1)/qa_duvidas.md",
     "QA/files (1)",
     "QA/files (1).zip",
-    "00 - 🚀 Challenge FIAP — `Nome do Projeto`.md",
     "IoT/IoT_progresso.md",
     "IoT/IoT_materiais.md",
     "IoT/IoT_exercicios.md",
